@@ -2,7 +2,7 @@
 #include <string>
 #include "gtest/gtest.h"
 #include "Cage.h"
-#include "Train.h"
+#include "train.h"
 TEST(MyEx11Test, test1) {
     Cage c1{};
     Cage c2{};
