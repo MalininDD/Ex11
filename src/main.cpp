@@ -1,7 +1,7 @@
 // Copyright 2021 MalininDmitry
 #include <iostream>
 #include "Cage.h"
-#include "Train.h"
+#include "train.h"
 
 int main() {
     Cage c1{};
