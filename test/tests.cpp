@@ -34,7 +34,7 @@ TEST(MyEx11Test, test1) {
 
 TEST(MyEx11Test, test2) {
     Cage c1{};
-    c2.on();
+    c1.on();
     Cage c2{};
     c2.on();
     Cage c3{};
